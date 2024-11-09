@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+.wraper {
+  display: flex;
+  
+}
+
+.rassm {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #E5E5E5;
+  border-radius: 10px;
+}
+
+.tarthib {
+  display: flex;
+}
+
+.svyaz {
+  margin-left: 20px;
+  font-size: 14px;
+  color: #707070;
+}
+
+.noomer {
+ margin-left: 5px;
+
+ 
+  text-decoration-line: none;
+  color: red;
+}
+
+
+.noomerr {
+  margin-left: 20px;
+  text-decoration-line: none;
+  color: red;
+}
+
+.kll {
+  margin-top: 25px;
+}
+
+.rasmm {
+  margin-left: 110px;
+  margin-top: 40px;
+}
+
+.bogbv {
+  margin-top: 70px;
+  margin-left: 110px;
+  font-size: 24px;
+}
+
+.nomerrr {
+  font-size: 14px;
+  margin-left: 15px;
+}
+
+
+.dfg {
+  margin-left: 300px;
+  margin-top: 70px;
+  font-size: 24px;
+}
+
+.inputtt-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-form {
+display: flex;
+flex-direction: column;
+}

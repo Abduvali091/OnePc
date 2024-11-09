@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+.nvvv {
+  background-color: #F6F9FC;
+  height: 104px;
+}
+
+.ooooo {
+  margin-left: 110px;
+  font-size: 24px;
+}
+
+.glavni {
+  margin-left: 110px;
+  font-size: 14px;
+}
+
+.igravoy {
+  color: #707070;
+  font-size: 14px;
+  display: inline-block;
+  margin-block: 0;
+}
+
+.mmm {
+  color: black;
+}
+
+.vsekategori {
+  font-size: 14px;
+  color: #161616;
+}
+
+.kategoria {
+  font-size: 20px;
+  color: #161616;
+  margin-left: 90px;
+}
+
+.wrapper-ples {
+  display: flex;
+  margin-top: 60px;
+}
+
+
+.products {
+  margin-left: 100px;
+  display: flex;
+  width: 1050px;
+  height: 731px;
+  flex-wrap: wrap;
+}
+
+.tru-icon {
+  margin-left: 90px;
+  border: 1px solid red;
+  display: inline-block;
+}
+
+.tru-h3 {
+  display: inline-block;
+  font-size: 14px;
+  color: red;
+}
+
+.sena {
+  margin-top: 40px;
+  margin-left: 90px;
+  font-size: 20px;
+}
+
+.lina {
+  margin-left: 90px;
+}
+
+.filter {
+  display: inline-block;
+  color: #161616;
+  font-size: 12px;
+  margin-top: 30px;
+  margin-left: 270px;
+}
+
+.moneey {
+  color: #707070;
+  font-size: 14px;
+  margin-left: 90px;
+}
+
+.brend {
+
+  margin-left: 90px;
+  font-size: 16px;
+  color: #161616;
+  margin-top: 40px;
+}
+
+.acer {
+  margin-top: 21px;
+  display: inline;
+  color: #707070;
+  font-size: 14px;
+}
+
+.brandd {
+ margin-top: 21px;
+  margin-left: 90px;
+  width: 14px;
+  height: 14px;
+}
+
+
+.kamp {
+  width: 251px;
+  height: 426px;
+  border: 1px solid #E5E5E5;
+}
+
+.yuooo {
+  margin-top: 1100px;
+}
+
+
+.tt {
+  margin-top: 110px;
+}
+
+.t {
+  margin-top: 80px;
+}
+
+.rr {
+  margin-top: 1500px;
+}
